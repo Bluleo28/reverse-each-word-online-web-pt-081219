@@ -1,1 +1,1 @@
-def reverse_each_word(sentence1)  array.push("Hello, there and who are you? ")end
+def reverse_each_word(sentence1)  string_array = end
